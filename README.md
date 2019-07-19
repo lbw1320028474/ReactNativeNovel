@@ -1,0 +1,2 @@
+# ReactNativeNovel
+用ReactNative开发的一个支持ios和android双平台的小说客户端
